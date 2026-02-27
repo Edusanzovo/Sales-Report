@@ -1,2 +1,2 @@
 # 📊 Sales-Report
-As 2 primeiras páginas não foram feitas por mim, somente a terceira. O dashboard usou segmentação, funções DAX e importação de visuais, além da atenção com cores, posicionamento e estruturação da página.
+Página 3 de um dashboard de vendas com incorporação de botões, funções DAX, segmentação e importação de visuais. A estrutura da página foi organizada de forma ergonômica para proporcionar um visual simples e de fácil compreensão.
